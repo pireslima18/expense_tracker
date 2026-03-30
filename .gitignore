@@ -1,0 +1,12 @@
+# Flutter / Android
+build/
+android/build/
+android/app/build/
+
+# APKs
+*.apk
+
+# Cache
+*.iml
+.gradle/
+.local/
