@@ -10,3 +10,5 @@ android/app/build/
 *.iml
 .gradle/
 .local/
+
+.dart_tool/

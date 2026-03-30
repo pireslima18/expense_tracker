@@ -1,1 +1,0 @@
- /Users/arthurlima/Documents/flutter/expense_tracker/.dart_tool/flutter_build/bf1e69a2367d03d55e05d636080ceb86/native_assets.yaml: 
