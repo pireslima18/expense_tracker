@@ -91,7 +91,9 @@ class _ExpansesState extends State<Expenses> {
       ),
       body: Column(
         children: [
+          const SizedBox(height: 10,),
           const Text("The chart"),
+          const SizedBox(height: 10,),
           Expanded(child: mainContent)
         ],
       ),
